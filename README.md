@@ -1,11 +1,11 @@
 <!-- This content will not appear in the rendered Markdown -->
 
 **Table of Contents**
-- [Git tut](https://github.com/mghasemi19/git_tut/blob/main/README.md#git_tut)
-- [Introduction](https://github.com/mghasemi19/git_tut/blob/main/README.md#introduction)
-- [Docker Image](https://github.com/mghasemi19/git_tut/blob/main/README.md#docker-image)
-- [Docker Container](https://github.com/mghasemi19/git_tut/blob/main/README.md#docker-container)
-- [Footnote](https://github.com/mghasemi19/git_tut/blob/main/README.md#footnote)
+- [Git tut](#git_tut)
+- [Introduction](#introduction)
+- [Docker Image](#docker-image)
+- [Docker Container](#docker-container)
+- [Footnote](#footnote)
 
 
 # git_tut
